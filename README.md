@@ -1,6 +1,6 @@
 # Auth API
 
-> This project is currently on hold and will be continued. The authentication layer is complete and production-ready.
+> This project is currently on hold and will be continued. The authentication layer is complete and designed with production-grade security practices in mind.
 
 A secure, production-grade RESTful authentication API built with Node.js and Express.js. Implements industry-standard security practices including refresh token rotation, session management, and anomaly detection.
 
