@@ -134,3 +134,7 @@ node app.js
 ## License
 
 MIT
+
+## Author
+
+**Ahmet Cihan** — [@eynaiaho](https://github.com/eynaiaho)
